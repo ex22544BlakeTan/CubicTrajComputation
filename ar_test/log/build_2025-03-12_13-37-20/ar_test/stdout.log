@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating ar_test.egg-info
+writing ar_test.egg-info/PKG-INFO
+writing dependency_links to ar_test.egg-info/dependency_links.txt
+writing entry points to ar_test.egg-info/entry_points.txt
+writing requirements to ar_test.egg-info/requires.txt
+writing top-level names to ar_test.egg-info/top_level.txt
+writing manifest file 'ar_test.egg-info/SOURCES.txt'
+reading manifest file 'ar_test.egg-info/SOURCES.txt'
+writing manifest file 'ar_test.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/python3.10/site-packages/ar-test.egg-link (link to .)
+Installing compute_cubic_coeffs script to /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/ar_test
+Installing cubic_traj_planner script to /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/ar_test
+Installing plot_cubic_traj script to /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/ar_test
+Installing points_generator script to /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/ar_test
+
+Installed /home/ex22544/ros2_ws/src/ar_test/build/ar_test
+running symlink_data
+creating /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ament_index/resource_index/packages
+symbolically linking /home/ex22544/ros2_ws/src/ar_test/build/ar_test/resource/ar_test -> /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ament_index/resource_index/packages
+symbolically linking /home/ex22544/ros2_ws/src/ar_test/build/ar_test/package.xml -> /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ar_test
+creating /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ar_test/launch
+symbolically linking /home/ex22544/ros2_ws/src/ar_test/build/ar_test/launch/cubic_traj_gen.launch.py -> /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ar_test/launch
