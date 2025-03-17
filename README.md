@@ -1,7 +1,7 @@
 Code developed by Jialin Tan, QMUL
 Student id: 210926082
 
-##Description
+## Description
    -- This ROS 2 package generates and plots cubic trajectories connecting pairs of randomly generated points. It consists of four nodes that work together to compute and visualize position, velocity, and acceleration trajectories.
 
 ## Package Structure
@@ -29,7 +29,7 @@ The package contains the following components:
    - Publishes to `/position_trajectory`, `/velocity_trajectory`, and `/acceleration_trajectory` topics.
 
 
-##Installation:
+## Installation:
    - access to workspace: cd:~/your_ros2_ws
    - package building: colcon build --packages-select ar_test
    - source the setup file: source install/setup.bash
