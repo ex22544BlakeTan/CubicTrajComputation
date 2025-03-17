@@ -1,0 +1,45 @@
+running egg_info
+writing ../../build/ar_test/ar_test.egg-info/PKG-INFO
+writing dependency_links to ../../build/ar_test/ar_test.egg-info/dependency_links.txt
+writing entry points to ../../build/ar_test/ar_test.egg-info/entry_points.txt
+writing requirements to ../../build/ar_test/ar_test.egg-info/requires.txt
+writing top-level names to ../../build/ar_test/ar_test.egg-info/top_level.txt
+reading manifest file '../../build/ar_test/ar_test.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ar_test/ar_test.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ar_test/__init__.py -> /home/ex22544/coursework/build/ar_test/build/lib/ar_test
+copying ar_test/points_generator.py -> /home/ex22544/coursework/build/ar_test/build/lib/ar_test
+copying ar_test/cubic_traj_planner.py -> /home/ex22544/coursework/build/ar_test/build/lib/ar_test
+copying ar_test/plot_cubic_traj.py -> /home/ex22544/coursework/build/ar_test/build/lib/ar_test
+copying ar_test/compute_cubic_coeffs.py -> /home/ex22544/coursework/build/ar_test/build/lib/ar_test
+running install
+running install_lib
+creating /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test
+copying /home/ex22544/coursework/build/ar_test/build/lib/ar_test/__init__.py -> /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test
+copying /home/ex22544/coursework/build/ar_test/build/lib/ar_test/service_member_function.py -> /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test
+copying /home/ex22544/coursework/build/ar_test/build/lib/ar_test/points_generator.py -> /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test
+copying /home/ex22544/coursework/build/ar_test/build/lib/ar_test/cubic_traj_planner.py -> /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test
+copying /home/ex22544/coursework/build/ar_test/build/lib/ar_test/plot_cubic_traj.py -> /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test
+copying /home/ex22544/coursework/build/ar_test/build/lib/ar_test/compute_cubic_coeffs.py -> /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test
+byte-compiling /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test/service_member_function.py to service_member_function.cpython-310.pyc
+byte-compiling /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test/points_generator.py to points_generator.cpython-310.pyc
+byte-compiling /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test/cubic_traj_planner.py to cubic_traj_planner.cpython-310.pyc
+byte-compiling /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test/plot_cubic_traj.py to plot_cubic_traj.cpython-310.pyc
+byte-compiling /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test/compute_cubic_coeffs.py to compute_cubic_coeffs.cpython-310.pyc
+running install_data
+creating /home/ex22544/coursework/install/ar_test/share/ament_index/resource_index/packages
+copying resource/ar_test -> /home/ex22544/coursework/install/ar_test/share/ament_index/resource_index/packages
+copying package.xml -> /home/ex22544/coursework/install/ar_test/share/ar_test
+creating /home/ex22544/coursework/install/ar_test/share/ar_test/launch
+copying launch/cubic_traj_gen.launch.py -> /home/ex22544/coursework/install/ar_test/share/ar_test/launch
+running install_egg_info
+Copying ../../build/ar_test/ar_test.egg-info to /home/ex22544/coursework/install/ar_test/lib/python3.10/site-packages/ar_test-0.0.0-py3.10.egg-info
+running install_scripts
+Installing compute_cubic_coeffs script to /home/ex22544/coursework/install/ar_test/lib/ar_test
+Installing cubic_traj_planner script to /home/ex22544/coursework/install/ar_test/lib/ar_test
+Installing plot_cubic_traj script to /home/ex22544/coursework/install/ar_test/lib/ar_test
+Installing points_generator script to /home/ex22544/coursework/install/ar_test/lib/ar_test
+writing list of installed files to '/home/ex22544/coursework/build/ar_test/install.log'
