@@ -35,6 +35,6 @@ The package contains the following components:
    - source the setup file: source install/setup.bash
 
 
-##Usage:
+## Usage:
    - Run: launch ar_test cubic_traj_gen.launch.py
    - Run: launch rqt in a new terminal. Then goes to Plugins->Visualization->Plot to observe the plotting of data or Plugins->Inrospection->Node Graph to check the structure.
