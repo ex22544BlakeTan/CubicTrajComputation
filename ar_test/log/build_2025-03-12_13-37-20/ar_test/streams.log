@@ -1,0 +1,27 @@
+[1.314s] Invoking command in '/home/ex22544/ros2_ws/src/ar_test/build/ar_test': PYTHONPATH=/home/ex22544/ros2_ws/src/ar_test/build/ar_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ex22544/ros2_ws/src/ar_test/build/ar_test/build --no-deps symlink_data
+[1.844s] running develop
+[2.297s] running egg_info
+[2.327s] creating ar_test.egg-info
+[2.329s] writing ar_test.egg-info/PKG-INFO
+[2.340s] writing dependency_links to ar_test.egg-info/dependency_links.txt
+[2.343s] writing entry points to ar_test.egg-info/entry_points.txt
+[2.345s] writing requirements to ar_test.egg-info/requires.txt
+[2.348s] writing top-level names to ar_test.egg-info/top_level.txt
+[2.354s] writing manifest file 'ar_test.egg-info/SOURCES.txt'
+[2.428s] reading manifest file 'ar_test.egg-info/SOURCES.txt'
+[2.432s] writing manifest file 'ar_test.egg-info/SOURCES.txt'
+[2.465s] running build_ext
+[2.465s] Creating /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/python3.10/site-packages/ar-test.egg-link (link to .)
+[2.477s] Installing compute_cubic_coeffs script to /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/ar_test
+[2.483s] Installing cubic_traj_planner script to /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/ar_test
+[2.489s] Installing plot_cubic_traj script to /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/ar_test
+[2.504s] Installing points_generator script to /home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/ar_test
+[2.510s] 
+[2.510s] Installed /home/ex22544/ros2_ws/src/ar_test/build/ar_test
+[2.511s] running symlink_data
+[2.513s] creating /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ament_index/resource_index/packages
+[2.518s] symbolically linking /home/ex22544/ros2_ws/src/ar_test/build/ar_test/resource/ar_test -> /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ament_index/resource_index/packages
+[2.521s] symbolically linking /home/ex22544/ros2_ws/src/ar_test/build/ar_test/package.xml -> /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ar_test
+[2.523s] creating /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ar_test/launch
+[2.526s] symbolically linking /home/ex22544/ros2_ws/src/ar_test/build/ar_test/launch/cubic_traj_gen.launch.py -> /home/ex22544/ros2_ws/src/ar_test/install/ar_test/share/ar_test/launch
+[2.560s] Invoked command in '/home/ex22544/ros2_ws/src/ar_test/build/ar_test' returned '0': PYTHONPATH=/home/ex22544/ros2_ws/src/ar_test/build/ar_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ex22544/ros2_ws/src/ar_test/install/ar_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ex22544/ros2_ws/src/ar_test/build/ar_test/build --no-deps symlink_data

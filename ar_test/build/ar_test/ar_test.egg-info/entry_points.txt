@@ -1,0 +1,5 @@
+[console_scripts]
+compute_cubic_coeffs = ar_test.compute_cubic_coeffs:main
+cubic_traj_planner = ar_test.cubic_traj_planner:main
+plot_cubic_traj = ar_test.plot_cubic_traj:main
+points_generator = ar_test.points_generator:main
