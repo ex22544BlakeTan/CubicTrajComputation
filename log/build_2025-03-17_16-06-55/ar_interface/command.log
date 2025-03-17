@@ -1,4 +1,0 @@
-Invoking command in '/home/ex22544/coursework/build/ar_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ex22544/coursework/build/ar_interface -- -j8 -l8
-Invoked command in '/home/ex22544/coursework/build/ar_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ex22544/coursework/build/ar_interface -- -j8 -l8
-Invoking command in '/home/ex22544/coursework/build/ar_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ex22544/coursework/build/ar_interface
-Invoked command in '/home/ex22544/coursework/build/ar_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ex22544/coursework/build/ar_interface
